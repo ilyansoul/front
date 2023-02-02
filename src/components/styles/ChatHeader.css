@@ -1,0 +1,28 @@
+.chat-container-header {
+    height: 140px;
+    width: 240px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #010536;
+   border: #EA2672;
+
+}
+
+.profile {
+  
+    display: flex;
+    align-items: center;
+    color: #EA2672;
+}
+.profile-img {
+   height: 140px;
+width: 150px ;
+border: white ;
+/* background-color: #010536; */
+overflow: hidden;
+
+}
+
+
+
